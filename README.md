@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Hola, soy un Ingeniero de Sistemas que ama resolver problemas (y tomar café ☕)
 
-¡Bienvenido/a! Soy [Tu Nombre], un apasionado de la tecnología, el código limpio y los retos que te hacen pensar dos veces antes de decir “ya casi termino”.
+¡Bienvenido/a! Soy Ingeniero de Sistemas con experiencia en desarrollo de software, consultoría técnica y cuento con formación en especialización en gestión de proyectos, he trabajado durante el diseño, integración y evolución de arquitecturas en tecnologías como .NET, C#, JavaScript, Angular, Phyton, SQL Server, Power BI, servicios REST, Microsoft y AWS, entre otros.
+
+He gestionado equipos técnicos y proyectos complejos, asegurando calidad, escalabilidad y cumplimiento normativo mediante metodologías ágiles (Scrum, Kanban, RUP). Me apasiona crear soluciones eficientes y sostenibles que agreguen valor real al negocio. Destaco por mi capacidad para comunicarme con stakeholders técnicos y no técnicos, tomar decisiones estratégicas, y adaptarme rápidamente a nuevos desafíos tecnológicos. Siempre en búsqueda de nuevas oportunidades para innovar, colaborar y seguir aprendiendo en el mundo del desarrollo y la arquitectura de software.
 
 ---
 
