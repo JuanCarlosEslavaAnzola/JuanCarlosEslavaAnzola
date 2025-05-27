@@ -29,19 +29,19 @@ Bogotá, Colombia | 2015 - 2016
 
 ## 📜 Mis certificaciones / cursos
 
-- 🏅 AWS Certified Cloud Practitioner - Amazon Web Services (AWS)
-- 📊 Curso de Microsoft Power Bi - Universidad Libre
-- 🏅 Scrum Master Professional Certificate SMPC® - CertiProf
-- 🏅 ITIL Foundation - PeopleCert
+- 🏅 **AWS Certified Cloud Practitioner** - Amazon Web Services (AWS)
+- 📊 **Curso de Microsoft Power Bi** - Universidad Libre
+- 🏅 **Scrum Master Professional Certificate SMPC®** - CertiProf
+- 🏅 **ITIL Foundation** - PeopleCert
 
 ---
 
 ## 📬 Cómo contactarme:
 
-- 💌 Email: [juanc.eslava@outlook.com](mailto:juanc.eslava@outlook.com)  
-- 🔗 LinkedIn: [linkedin.com/in/juan-carlos-eslava-anzola-7ba16386](https://co.linkedin.com/in/juan-carlos-eslava-anzola-7ba16386)
-- 💻 GitHub: [github.com/JuanCarlosEslavaAnzola](https://github.com/JuanCarlosEslavaAnzola)
-- ☎️ Teléfono: [+57 313 418 6092](tel:+573134186092)
-- 📍 Ubicación: Bogotá, Colombia.
+- 💌 **Email:** [juanc.eslava@outlook.com](mailto:juanc.eslava@outlook.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/juan-carlos-eslava-anzola-7ba16386](https://co.linkedin.com/in/juan-carlos-eslava-anzola-7ba16386)
+- 💻 **GitHub:** [github.com/JuanCarlosEslavaAnzola](https://github.com/JuanCarlosEslavaAnzola)
+- 📲 **Teléfono móvil:** [+57 313 418 6092](tel:+573134186092)
+- 📍 **Ubicación:** Bogotá, Colombia.
 
 ---
