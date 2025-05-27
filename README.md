@@ -53,5 +53,10 @@ Bogotá, Colombia | 2015 - 2016
 
 ## 🧪 Estoy trabajando en:
 
-🚧 **En construcción** - Este proyecto aún está en desarrollo. ¡Vuelve pronto para ver los avances!
+<h2 align="center">🚧 **En construcción**</h2>
+
+<p align="center">
+Este proyecto aún está en desarrollo. 
+¡Vuelve pronto para ver los avances!
+</p>
 ---
