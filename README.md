@@ -42,7 +42,7 @@ Bogotá, Colombia | 2015 - 2016
 
 ## 📬 Cómo contactarme:
 
-- 💌 **Email:** [juanc.eslava@outlook.com](mailto:juanc.eslava@outlook.com)  
+- 📧 **Correo electrónico:** [juanc.eslava@outlook.com](mailto:juanc.eslava@outlook.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/juan-carlos-eslava-anzola-7ba16386](https://co.linkedin.com/in/juan-carlos-eslava-anzola-7ba16386)
 - 💻 **GitHub:** [github.com/JuanCarlosEslavaAnzola](https://github.com/JuanCarlosEslavaAnzola)
 - 📲 **Teléfono móvil:** [+57 313 418 6092](tel:+573134186092)
